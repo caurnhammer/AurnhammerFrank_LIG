@@ -6,7 +6,7 @@ Citation: Aurnhammer, C., & Frank, S. L. (in press). Evaluating information-theo
 
 Corpus data available for download at https://osf.io/pnv4h/ 
 
-#The files need to be copied to /RNNs/corpus
+The files need to be copied to /RNNs/corpus
 
 ######################## Analysis #################
 
